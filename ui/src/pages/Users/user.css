@@ -1,0 +1,16 @@
+.users {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.user {
+  display: flex;
+  align-items: center;
+  border: 1px solid gray;
+  width: 200px;
+  justify-content: space-between;
+  padding: 10px 5px;
+  margin: 10px;
+}
